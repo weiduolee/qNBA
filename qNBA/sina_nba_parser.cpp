@@ -26,9 +26,9 @@ std::map<QDate, std::list<MatchInfo>> SinaNbaParser::Parse(QByteArray content)
                         if (value == "match-con-date")
                         {
                             QString dateStr = GetTextInNode(htmlDoc, child);
-                            dateStr.replace(QString::fromLocal8Bit("å¹´"), "-");
-                            dateStr.replace(QString::fromLocal8Bit("æœˆ"), "-");
-                            dateStr.replace(QString::fromLocal8Bit("æ—¥"), "");
+                            dateStr.replace(QString::fromLocal8Bit("Äê"), "-");
+                            dateStr.replace(QString::fromLocal8Bit("ÔÂ"), "-");
+                            dateStr.replace(QString::fromLocal8Bit("ÈÕ"), "");
                             date = QDate::fromString(dateStr, Qt::ISODate);
 
                         }
