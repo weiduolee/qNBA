@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="qNBA">
+    <file>res/atl.png</file>
+    <file>res/bkn.png</file>
+    <file>res/bos.png</file>
+    <file>res/cha.png</file>
+    <file>res/chi.png</file>
+    <file>res/cle.png</file>
+    <file>res/dal.png</file>
+    <file>res/den.png</file>
+    <file>res/det.png</file>
+    <file>res/gs.png</file>
+    <file>res/hou.png</file>
+    <file>res/ind.png</file>
+    <file>res/lac.png</file>
+    <file>res/lal.png</file>
+    <file>res/mem.png</file>
+    <file>res/mia.png</file>
+    <file>res/mil.png</file>
+    <file>res/min.png</file>
+    <file>res/nor.png</file>
+    <file>res/ny.png</file>
+    <file>res/okc.png</file>
+    <file>res/orl.png</file>
+    <file>res/phi.png</file>
+    <file>res/pho.png</file>
+    <file>res/por.png</file>
+    <file>res/sa.png</file>
+    <file>res/sac.png</file>
+    <file>res/tor.png</file>
+    <file>res/utah.png</file>
+    <file>res/was.png</file>
+  </qresource>
+</RCC>

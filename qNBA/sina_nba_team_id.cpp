@@ -1,0 +1,32 @@
+#include "sina_nba_team_id.h"
+
+const char atl[] = "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c";
+const char bkn[] = "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c";
+const char bos[] = "583eccfa-fb46-11e1-82cb-f4ce4684ea4c";
+const char cha[] = "583ec97e-fb46-11e1-82cb-f4ce4684ea4c";
+const char chi[] = "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c";
+const char cle[] = "583ec773-fb46-11e1-82cb-f4ce4684ea4c";
+const char dal[] = "583ecf50-fb46-11e1-82cb-f4ce4684ea4c";
+const char den[] = "583ed102-fb46-11e1-82cb-f4ce4684ea4c";
+const char det[] = "583ec928-fb46-11e1-82cb-f4ce4684ea4c";
+const char gs[] = "583ec825-fb46-11e1-82cb-f4ce4684ea4c";
+const char hou[] = "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c";
+const char ind[] = "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c";
+const char lac[] = "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c";
+const char lal[] = "583ecae2-fb46-11e1-82cb-f4ce4684ea4c";
+const char mem[] = "583eca88-fb46-11e1-82cb-f4ce4684ea4c";
+const char mia[] = "583ecea6-fb46-11e1-82cb-f4ce4684ea4c";
+const char mil[] = "583ecefd-fb46-11e1-82cb-f4ce4684ea4c";
+const char min[] = "583eca2f-fb46-11e1-82cb-f4ce4684ea4c";
+const char nor[] = "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c";
+const char ny[] = "583ec70e-fb46-11e1-82cb-f4ce4684ea4c";
+const char okc[] = "583ecfff-fb46-11e1-82cb-f4ce4684ea4c";
+const char orl[] = "583ed157-fb46-11e1-82cb-f4ce4684ea4c";
+const char phi[] = "583ec87d-fb46-11e1-82cb-f4ce4684ea4c";
+const char pho[] = "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c";
+const char por[] = "583ed056-fb46-11e1-82cb-f4ce4684ea4c";
+const char sa[] = "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c";
+const char sac[] = "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c";
+const char tor[] = "583ecda6-fb46-11e1-82cb-f4ce4684ea4c";
+const char utah[] = "583ece50-fb46-11e1-82cb-f4ce4684ea4c";
+const char was[] = "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c";
