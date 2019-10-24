@@ -418,7 +418,7 @@ void qNBA::UpdateUIFromDBData(QDateTime date_time, QString guest_sina_id, QStrin
 
 void qNBA::InitNbaLogo()
 {
-    m_logo_map[atl] = QPixmap(":/qNBA/res/alt.png");
+    m_logo_map[atl] = QPixmap(":/qNBA/res/atl.png");
     m_logo_map[bkn] = QPixmap(":/qNBA/res/bkn.png");
     m_logo_map[bos] = QPixmap(":/qNBA/res/bos.png");
     m_logo_map[cha] = QPixmap(":/qNBA/res/cha.png");
