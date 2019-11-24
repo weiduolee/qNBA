@@ -307,7 +307,7 @@ void qNBA::UpdateUIFromDBData(QDateTime date_time, QString guest_sina_id, QStrin
         label_text += host_team;
         label_text += " ";
         label_text += QString::number(host_team_score);
-        label_text += "\n\nOT ";
+        label_text += "\n\n----------\n\nOT - ";
         label_text += QString::number(ot);;
 
         QDate day2000(2000, 1, 1);
@@ -380,7 +380,7 @@ void qNBA::UpdateUIFromDBData(QDateTime date_time, QString guest_sina_id, QStrin
         label_text += host_team;
         label_text += " ";
         label_text += QString::number(host_team_score);
-        label_text += "\n\nOT ";
+        label_text += "\n\n----------\n\nOT - ";
         label_text += QString::number(ot);;
 
         QDate day2000(2000, 1, 1);

@@ -114,7 +114,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="parser.cpp" />
     <ClCompile Include="qNBA.cpp" />
+    <ClCompile Include="sina_cba_parser.cpp" />
+    <ClCompile Include="sina_cba_team_id.cpp" />
     <ClCompile Include="sina_nba_parser.cpp" />
     <ClCompile Include="sina_nba_team_id.cpp" />
   </ItemGroup>
@@ -132,6 +135,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="match_info.h" />
+    <ClInclude Include="parser.h" />
+    <ClInclude Include="sina_cba_parser.h" />
+    <ClInclude Include="sina_cba_team_id.h" />
     <ClInclude Include="sina_nba_parser.h" />
     <ClInclude Include="sina_nba_team_id.h" />
   </ItemGroup>
